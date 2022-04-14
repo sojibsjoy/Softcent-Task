@@ -14,12 +14,12 @@ These are the major features included in this project.<br>
 ### Output Screens:
 Home Screen        |  Home Screen(cont.)    |
 :-------------------------:|:-------------------------:|
-<img src="ss/home.png" alt="Home Screen" height=400 />  |  <img src="ss/home2.png" alt="Home Screen (cont.)" height=400 />  |
+<img src="ss/home.jpg" alt="Home Screen" height=400 />  |  <img src="ss/home2.jpg" alt="Home Screen (cont.)" height=400 />  |
 
 <br>
 
 Dialog Screen        |  Dialog Screen(cont.)     |
 :-------------------------:|:-------------------------:|
-<img src="ss/dialog.png" alt="Dialog Screen" height=400 />  |  <img src="ss/dialog2.png" alt="Dialog Screen (cont.)" height=400 />  |
+<img src="ss/dialog.jpg" alt="Dialog Screen" height=400 />  |  <img src="ss/dialog2.jpg" alt="Dialog Screen (cont.)" height=400 />  |
 
 <br>
