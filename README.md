@@ -1,16 +1,25 @@
-# softcent_test
+# Softcent Test Task
 
-A new Flutter project.
+This project is a test assignment provided by Softcent.
 
-## Getting Started
+### Key Features:
+1. Implementation of Stunning UI.
+2. Implementation of Getx State Management Library.
+3. Structured and Clean Code.
+These are the major features included in this project.<br>
 
-This project is a starting point for a Flutter application.
+### Getx for State Management
+<img src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png" height=130 />
 
-A few resources to get you started if this is your first Flutter project:
+### Output Screens:
+Home Screen        |  Home Screen(cont.)    |
+:-------------------------:|:-------------------------:|
+<img src="ss/home.png" alt="Home Screen" height=400 />  |  <img src="ss/home2.png" alt="Home Screen (cont.)" height=400 />  |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dialog Screen        |  Dialog Screen(cont.)     |
+:-------------------------:|:-------------------------:|
+<img src="ss/dialog.png" alt="Dialog Screen" height=400 />  |  <img src="ss/dialog2.png" alt="Dialog Screen (cont.)" height=400 />  |
+
+<br>
