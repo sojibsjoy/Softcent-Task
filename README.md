@@ -23,3 +23,5 @@ Dialog Screen        |  Dialog Screen(cont.)     |
 <img src="ss/dialog.jpg" alt="Dialog Screen" height=400 />  |  <img src="ss/dialog2.jpg" alt="Dialog Screen (cont.)" height=400 />  |
 
 <br>
+
+Link of the APK File(Release Mode): https://drive.google.com/file/d/1wuIsXQYwgPubAmSaEgUal0hUB1xKAZz-/view?usp=sharing
